@@ -15,7 +15,7 @@ function Featured() {
 			setLoading(false);
 		};
 		fetchFeaturedMovie();
-	}, [featuredMovie]);
+	}, []);
 
 	return (
 		<div className="py-10">
