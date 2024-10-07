@@ -1,0 +1,8 @@
+{
+	"rewrites": [
+		{
+			"source": "/favorite",
+			"destination": "/favorite.html"
+		}
+	]
+}

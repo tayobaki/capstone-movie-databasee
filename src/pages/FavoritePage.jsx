@@ -1,4 +1,4 @@
-import Card from "../components/Card";
+import Card from "../components/Card.jsx";
 
 function FavoritePage() {
 	const favorites = JSON.parse(localStorage.getItem("favoriteMovies")) || [];
